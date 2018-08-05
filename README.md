@@ -1,5 +1,7 @@
 # react boilerplate ssr example
 
+☠️ **WARNING** ☠️ probably not production-ready, proceed with caution.
+
 this project was created with [razzle](https://github.com/jaredpalmer/razzle) and is an example of [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) with server-side rendering
 
 ## differences
